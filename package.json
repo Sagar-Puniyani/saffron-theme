@@ -15,7 +15,8 @@
     "dark",
     "theme",
     "coder",
-    "saffron-coder-dark"
+    "saffron-coder-dark",
+    "Sagar Puniyani"
   ],
   "contributes": {
     "themes": [
@@ -25,5 +26,9 @@
         "path": "./themes/saffron Coder Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sagar-Puniyani/saffron-theme"
   }
 }
