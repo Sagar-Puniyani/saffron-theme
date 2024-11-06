@@ -1,0 +1,29 @@
+{
+  "name": "saffron-coder-dark",
+  "displayName": "Saffron Coder Dark",
+  "description": "Feel premium saffron ",
+  "publisher": "sagarpuniyani",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "saffron",
+    "dark",
+    "theme",
+    "coder",
+    "saffron-coder-dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "saffron Coder Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/saffron Coder Dark-color-theme.json"
+      }
+    ]
+  }
+}
