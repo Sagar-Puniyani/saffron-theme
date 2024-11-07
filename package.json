@@ -4,6 +4,7 @@
   "description": "Feel premium saffron ",
   "publisher": "sagarpuniyani",
   "version": "0.1.0",
+  "icon" : "themes/saffron.jpg",
   "engines": {
     "vscode": "^1.95.0"
   },
