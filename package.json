@@ -17,7 +17,8 @@
     "theme",
     "coder",
     "saffron-coder-dark",
-    "Sagar Puniyani"
+    "Sagar Puniyani",
+    "saffron theme"
   ],
   "contributes": {
     "themes": [
